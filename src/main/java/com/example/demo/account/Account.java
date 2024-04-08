@@ -20,8 +20,8 @@ public class Account {
     )
 
     private Long id;
-    private String name;
-    private double balance;
+    public String name;
+    public double balance;
 
 
     public Account() {
